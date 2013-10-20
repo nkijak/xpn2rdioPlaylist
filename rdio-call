@@ -1,0 +1,11 @@
+#!/usr/bin/env ruby
+#
+# Ruby equivalent of:
+#
+#  https://github.com/rdio/rdio-python/blob/master/rdio-call
+#
+
+  require 'rubygems'
+  require 'rdio'
+
+exit Rdio::Call.new.main ARGV

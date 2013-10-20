@@ -1,0 +1,2656 @@
+---
+- :artist: Adele
+  :song: Rolling In The Deep
+  :year: '2011'
+- :artist: Edward Sharpe And The Magnetic Zeros
+  :song: Home
+  :year: '2009'
+- :artist: The Lumineers
+  :song: Ho Hey
+  :year: '2012'
+- :artist: The White Stripes
+  :song: Seven Nation Army
+  :year: '2003'
+- :artist: Bruce Springsteen
+  :song: The Rising
+  :year: '2002'
+- :artist: Gnarls Barkley
+  :song: Crazy
+  :year: '2006'
+- :artist: Amy Winehouse
+  :song: Rehab
+  :year: '2006'
+- :artist: Wilco
+  :song: Impossible Germany
+  :year: '2007'
+- :artist: Coldplay
+  :song: Clocks
+  :year: '2002'
+- :artist: The Avett Brothers
+  :song: I And Love And You
+  :year: '2009'
+- :artist: Dawes
+  :song: When My Time Comes
+  :year: '2009'
+- :artist: Johnny Cash
+  :song: Hurt
+  :year: '2002'
+- :artist: Ray Lamontagne
+  :song: Trouble
+  :year: '2004'
+- :artist: Dawes
+  :song: A Little Bit Of Everything
+  :year: '2011'
+- :artist: The Black Keys
+  :song: Lonley Boy
+  :year: '2011'
+- :artist: Mumford & Sons
+  :song: Little Lion Man
+  :year: '2009'
+- :artist: Adele
+  :song: Someone Like You
+  :year: '2011'
+- :artist: Coldplay
+  :song: Fix You
+  :year: '2005'
+- :artist: Adele
+  :song: Chasing Pavements
+  :year: '2008'
+- :artist: The Black Keys
+  :song: Gold On The Ceiling
+  :year: '2011'
+- :artist: Norah Jones
+  :song: Don't Know Why
+  :year: '2002'
+- :artist: The Shins
+  :song: New Slang
+  :year: '2001'
+- :artist: Florence And The Machine
+  :song: Shake It Out
+  :year: '2012'
+- :artist: Arcade Fire
+  :song: Wake Up
+  :year: '2004'
+- :artist: Old Crow Medicine Show
+  :song: Wagon Wheel
+  :year: '2004'
+- :artist: Jay-Z
+  :song: 99 Problems
+  :year: '2003'
+- :artist: Brandi Carlile
+  :song: The Story
+  :year: '2007'
+- :artist: Foster The People
+  :song: Pumped Up Kicks
+  :year: '2011'
+- :artist: Modest Mouse
+  :song: Float On
+  :year: '2004'
+- :artist: Sufjan Stevens
+  :song: Chicago
+  :year: '2005'
+- :artist: The Flaming Lips
+  :song: Do You Realize?
+  :year: '2002'
+- :artist: Gotye
+  :song: Somebody That I Used To Know
+  :year: '2011'
+- :artist: Bon Iver
+  :song: Holocene
+  :year: '2011'
+- :artist: Amos Lee
+  :song: Windows Are Rolled Down
+  :year: '2011'
+- :artist: Alabaman Shakes
+  :song: Hold On
+  :year: '2012'
+- :artist: My Morning Jacket
+  :song: One Big Holiday
+  :year: '2003'
+- :artist: The Strokes
+  :song: Last Nite
+  :year: '2001'
+- :artist: Mayer Hawthorne
+  :song: Walk, The
+  :year: '2011'
+- :artist: The Killers
+  :song: Mr. Brightside
+  :year: '2004'
+- :artist: Bon Iver
+  :song: Skinny Love
+  :year: '2008'
+- :artist: Coldplay
+  :song: Viva La Vida
+  :year: '2008'
+- :artist: Coldplay
+  :song: The Scientist
+  :year: '2002'
+- :artist: Citizen Cope
+  :song: Sideways
+  :year: '2004'
+- :artist: Vampire Weekend
+  :song: Cape Cod Kwassa Kwassa
+  :year: '2008'
+- :artist: Dawes
+  :song: Time Spent In Los Angeles
+  :year: '2011'
+- :artist: Wilco
+  :song: Jesus Etc.
+  :year: '2002'
+- :artist: Dawes
+  :song: If I Wanted Someone
+  :year: '2011'
+- :artist: The Postal Service
+  :song: Such Great Heights
+  :year: '2003'
+- :artist: Michael Franti
+  :song: Say Hey
+  :year: '2009'
+- :artist: Norah Jones
+  :song: Come Away With Me
+  :year: '2002'
+- :artist: The National
+  :song: Bloodbuzz Ohio
+  :year: '2010'
+- :artist: John Mayer
+  :song: No Such Thing
+  :year: '2001'
+- :artist: Patty Griffin
+  :song: Heavenly Day
+  :year: '2007'
+- :artist: Felice Brothers
+  :song: Frankie's Gun
+  :year: '2008'
+- :artist: Pearl Jam
+  :song: Just Breathe
+  :year: '2009'
+- :artist: Adele
+  :song: Set Fire To The Rain
+  :year: '2011'
+- :artist: Alexi Murdoch
+  :song: Orange Sky
+  :year: '2006'
+- :artist: Mumford & Sons
+  :song: The Cave
+  :year: '2009'
+- :artist: Daft Punk
+  :song: Get Lucky
+  :year: '2013'
+- :artist: Mumford & Sons
+  :song: I Will Wait
+  :year: '2012'
+- :artist: The Strokes
+  :song: Someday
+  :year: '2001'
+- :artist: Florence And The Machine
+  :song: Dog Days Are Over
+  :year: '2009'
+- :artist: Fleet Foxes
+  :song: White Winter Hymnal
+  :year: '2008'
+- :artist: Lcd Soundsystem
+  :song: All My Friends
+  :year: '2007'
+- :artist: The Black Keys
+  :song: Tighten Up
+  :year: '2010'
+- :artist: Drive By Truckers
+  :song: Used To Be A Cop
+  :year: '2011'
+- :artist: The Killers
+  :song: All These Things That I've Done
+  :year: '2004'
+- :artist: John Mayer
+  :song: Daughters
+  :year: '2003'
+- :artist: Amos Lee
+  :song: Arms Of A Woman
+  :year: '2005'
+- :artist: Death Cab For Cutie
+  :song: I Will Possess Your Heart
+  :year: '2008'
+- :artist: Dinosaur Jr.
+  :song: Said The People
+  :year: '2009'
+- :artist: Yeah Yeah Yeahs
+  :song: Maps
+  :year: '2003'
+- :artist: Ryan Adams
+  :song: New York, New York
+  :year: '2001'
+- :artist: Of Monsters And Men
+  :song: Little Talks
+  :year: '2011'
+- :artist: Patty Griffin
+  :song: Rain
+  :year: '2002'
+- :artist: Citizen Cope
+  :song: Bullet And A Target
+  :year: '2004'
+- :artist: Warren Zevon
+  :song: Keep Me In Your Heart For A While
+  :year: '2003'
+- :artist: Rachael Yamagata
+  :song: Worn Me Down
+  :year: '2004'
+- :artist: Bruce Springsteen
+  :song: Girls In Their Summer Clothes
+  :year: '2007'
+- :artist: Ray Lamontagne
+  :song: Beg, Steal Or Borrow
+  :year: '2010'
+- :artist: Peter Bjorn & John
+  :song: Young Folks
+  :year: '2006'
+- :artist: The Lumineers
+  :song: Stubborn Love
+  :year: '2012'
+- :artist: Delta Rae
+  :song: Bottom Of The River
+  :year: '2012'
+- :artist: Janelle Monae
+  :song: Tightrope
+  :year: '2010'
+- :artist: The Black Keys
+  :song: Little Black Submarines
+  :year: '2011'
+- :artist: Glen Hansard
+  :song: Falling Slowly
+  :year: '2006'
+- :artist: Train
+  :song: Drops Of Jupiter
+  :year: '2001'
+- :artist: Bruce Springsteen
+  :song: My City Of Ruins
+  :year: '2002'
+- :artist: Arcade Fire
+  :song: Ready To Start
+  :year: '2010'
+- :artist: The Avett Brothers
+  :song: Live And Die
+  :year: '2012'
+- :artist: Daft Punk
+  :song: Harder Better Faster Stronger
+  :year: '2003'
+- :artist: Kt Tunstall
+  :song: Black Horse And The Cherry Tree
+  :year: '2004'
+- :artist: Vampire Weekend
+  :song: A-Punk
+  :year: '2008'
+- :artist: Gorillaz
+  :song: Feel Good Inc
+  :year: '2005'
+- :artist: Kings Of Leon
+  :song: Sex On Fire
+  :year: '2008'
+- :artist: Dawes
+  :song: From A Window Seat
+  :year: '2013'
+- :artist: John Mayer
+  :song: Waiting On The World To Change
+  :year: '2006'
+- :artist: Fleet Foxes
+  :song: Helplessness Blues
+  :year: '2011'
+- :artist: Airborne Toxic Event, The
+  :song: Sometime Around Midnight
+  :year: '2008'
+- :artist: Arcade Fire
+  :song: ! 'Neighborhood #1'
+  :year: '2004'
+- :artist: Gorillaz
+  :song: Clint Eastwood
+  :year: '2001'
+- :artist: Amy Winehouse
+  :song: Back To Black
+  :year: '2006'
+- :artist: Mgmt
+  :song: Time To Pretend
+  :year: '2008'
+- :artist: Shemekia Copeland
+  :song: Never Going Back To Memphis
+  :year: '2009'
+- :artist: Death Cab For Cutie
+  :song: Cath
+  :year: '2008'
+- :artist: Wilco
+  :song: I Am Trying To Break Your Heart
+  :year: '2002'
+- :artist: The Black Keys
+  :song: Next Girl
+  :year: '2010'
+- :artist: U2
+  :song: Vertigo
+  :year: '2004'
+- :artist: Ting Tings
+  :song: That's Not My Name
+  :year: '2008'
+- :artist: Fun.
+  :song: Some Nights
+  :year: '2012'
+- :artist: Los Lonely Boys
+  :song: Heaven
+  :year: '2004'
+- :artist: The Civil Wars
+  :song: Barton Hollow
+  :year: '2011'
+- :artist: My Morning Jacket
+  :song: Golden
+  :year: '2003'
+- :artist: Tv On The Radio
+  :song: Wolf Like Me
+  :year: '2006'
+- :artist: Edward Sharpe And The Magnetic Zeros
+  :song: 40 Day Dream
+  :year: '2009'
+- :artist: Radiohead
+  :song: There There
+  :year: '2003'
+- :artist: Arcade Fire
+  :song: Rebellion (Lies)
+  :year: '2004'
+- :artist: The Black Keys
+  :song: Howlin For You
+  :year: '2010'
+- :artist: Broken Bells
+  :song: High Road, The
+  :year: '2010'
+- :artist: Franz Ferdinand
+  :song: Take Me Out
+  :year: '2004'
+- :artist: Mgmt
+  :song: Kids
+  :year: '2008'
+- :artist: Wilco
+  :song: Heavy Metal Drummer
+  :year: '2002'
+- :artist: Diego Garcia
+  :song: You Were Never There
+  :year: '2011'
+- :artist: Keane
+  :song: Somewhere Only We Know
+  :year: '2004'
+- :artist: Phosphorescent
+  :song: Song For Zula
+  :year: '2013'
+- :artist: John Mayer
+  :song: Your Body Is A Wonderland
+  :year: '2001'
+- :artist: John Mayer
+  :song: Queen Of California
+  :year: '2012'
+- :artist: Adele
+  :song: Rumor Has It
+  :year: '2011'
+- :artist: Fun.
+  :song: We Are Young
+  :year: '2012'
+- :artist: Tom Waits
+  :song: Long Way Home, The
+  :year: '2006'
+- :artist: John Mayer
+  :song: Born And Raised
+  :year: '2012'
+- :artist: Kings Of Leon
+  :song: Use Somebody
+  :year: '2008'
+- :artist: Dr. Dog
+  :song: That Old Black Hole
+  :year: '2012'
+- :artist: Foo Fighters
+  :song: Walk
+  :year: '2011'
+- :artist: Amy Winehouse
+  :song: Valerie
+  :year: '2007'
+- :artist: Death Cab For Cutie
+  :song: I Will Follow You Into The Dark
+  :year: '2005'
+- :artist: Ray Lamontagne
+  :song: You Are The Best Thing
+  :year: '2008'
+- :artist: Telepopmusik
+  :song: Breathe
+  :year: '2001'
+- :artist: The Decemberists
+  :song: Down By The Water
+  :year: '2011'
+- :artist: The Hold Steady
+  :song: Stuck Between Stations
+  :year: '2006'
+- :artist: Mumford & Sons
+  :song: Lover Of The Light
+  :year: '2012'
+- :artist: The White Stripes
+  :song: Fell In Love With A Girl
+  :year: '2001'
+- :artist: Josh Ritter
+  :song: Kathleen
+  :year: '2003'
+- :artist: Kathleen Edwards
+  :song: Asking For Flowers
+  :year: '2008'
+- :artist: The Decemberists
+  :song: This Is Why We Fight
+  :year: '2011'
+- :artist: Lana Del Rey
+  :song: Video Games
+  :year: '2012'
+- :artist: Ryan Adams And The Cardinals
+  :song: Let It Ride
+  :year: '2005'
+- :artist: Bruce Springsteen
+  :song: We Take Care Of Our Own
+  :year: '2012'
+- :artist: Frank Ocean
+  :song: Thinking About You
+  :year: '2012'
+- :artist: The Civil Wars
+  :song: Poison And Wine
+  :year: '2011'
+- :artist: Death Cab For Cutie
+  :song: Soul Meets Body
+  :year: '2005'
+- :artist: Levon Helm
+  :song: When I Go Away
+  :year: '2009'
+- :artist: Mgmt
+  :song: Electric Feel
+  :year: '2008'
+- :artist: Vampire Weekend
+  :song: Oxford Comma
+  :year: '2008'
+- :artist: Jack White
+  :song: Love Interruption
+  :year: '2012'
+- :artist: Dr John
+  :song: Locked Down
+  :year: '2012'
+- :artist: Kings Of Leon
+  :song: Closer
+  :year: '2008'
+- :artist: Mumford & Sons
+  :song: Babel
+  :year: '2012'
+- :artist: Dave Matthews
+  :song: Mercy
+  :year: '2012'
+- :artist: The Hold Steady
+  :song: Sequestered In Memphis
+  :year: '2008'
+- :artist: Jamie Cullen
+  :song: All At Sea
+  :year: '2004'
+- :artist: Mumford & Sons
+  :song: Roll Away Your Stone
+  :year: '2009'
+- :artist: Coldplay
+  :song: God Put A Smile On My Face
+  :year: '2002'
+- :artist: Bob Dylan
+  :song: Mississippi
+  :year: '2001'
+- :artist: Jim James
+  :song: A New Life
+  :year: '2013'
+- :artist: The Lumineers
+  :song: Big Parade
+  :year: '2012'
+- :artist: Animal Colective
+  :song: My Girls
+  :year: '2009'
+- :artist: Arcade Fire
+  :song: No Cars Go
+  :year: '2007'
+- :artist: Cake
+  :song: Short Skirt/Long Jacket
+  :year: '2001'
+- :artist: Josh Ritter
+  :song: Girl In The War
+  :year: '2006'
+- :artist: Imogen Heap
+  :song: Hide And Seek
+  :year: '2005'
+- :artist: The Black Keys
+  :song: Your Touch
+  :year: '2006'
+- :artist: My Morning Jacket
+  :song: Wordless Chorus
+  :year: '2005'
+- :artist: Brand New
+  :song: Limousine
+  :year: '2006'
+- :artist: Eminem
+  :song: Lose Yourself
+  :year: '2002'
+- :artist: Grace Potter And The Nocturnals
+  :song: Ah, Mary
+  :year: '2007'
+- :artist: Radiohead
+  :song: Jigsaw Falling Into Place
+  :year: '2007'
+- :artist: The Avett Brothers
+  :song: Laundry Room
+  :year: '2009'
+- :artist: Bonnie Raitt
+  :song: Used To Rule The World
+  :year: '2012'
+- :artist: Kathleen Edwards
+  :song: Six O'clock News
+  :year: '2003'
+- :artist: Edward Sharpe And Tha Magnetic Zeros
+  :song: Man On Fire
+  :year: '2012'
+- :artist: The National
+  :song: Fake Empire
+  :year: '2007'
+- :artist: Dave Matthews
+  :song: You And Me
+  :year: '2009'
+- :artist: Kanye West
+  :song: Jesus Walks
+  :year: '2004'
+- :artist: Spoon
+  :song: The Underdog
+  :year: '2007'
+- :artist: Neko Case
+  :song: Hold On Hold On
+  :year: '2006'
+- :artist: Citizen Cope
+  :song: If There's Love
+  :year: '2002'
+- :artist: Corinne Bailey Rae
+  :song: Put Your Records On
+  :year: '2006'
+- :artist: Ellie Goulding
+  :song: Lights
+  :year: '2012'
+- :artist: Radiohead
+  :song: Lotus Flower
+  :year: '2011'
+- :artist: Ray Lamontagne
+  :song: Jolene
+  :year: '2004'
+- :artist: Green Day
+  :song: American Idiot
+  :year: '2004'
+- :artist: Weezer
+  :song: Island In The Sun
+  :year: '2001'
+- :artist: Beyonce
+  :song: Single Ladies
+  :year: '2008'
+- :artist: Bright Eyes
+  :song: First Day Of My Life
+  :year: '2005'
+- :artist: Steve Earle
+  :song: This City
+  :year: '2011'
+- :artist: Amy Winehouse
+  :song: You Know I'm No Good
+  :year: '2006'
+- :artist: Outkast
+  :song: Hey Ya
+  :year: '2003'
+- :artist: The Shins
+  :song: Phantom Limb
+  :year: '2007'
+- :artist: Esperanza Spalding
+  :song: Fall In
+  :year: '2008'
+- :artist: Fitz And The Tantrums
+  :song: Money Grabber
+  :year: '2010'
+- :artist: Gary Clark Jr
+  :song: Bright Lights
+  :year: '2012'
+- :artist: Zero 7
+  :song: In The Waiting Line
+  :year: '2001'
+- :artist: Gary Clark Jr.
+  :song: When My Train Pulls In
+  :year: '2012'
+- :artist: Lcd Soundsystem
+  :song: Dance Yrself Clean
+  :year: '2010'
+- :artist: Back Door Slam
+  :song: Come Home
+  :year: '2007'
+- :artist: Cee Lo
+  :song: Forget You
+  :year: '2010'
+- :artist: Fleet Foxes
+  :song: Mykonos
+  :year: '2008'
+- :artist: The Knife
+  :song: Heartbeats
+  :year: '2003'
+- :artist: Band Of Horses
+  :song: The Funeral
+  :year: '2006'
+- :artist: Damien Rice
+  :song: Amie
+  :year: '2002'
+- :artist: One Eskimo
+  :song: Kandi
+  :year: '2009'
+- :artist: Jason Mraz
+  :song: I'm Yours
+  :year: '2008'
+- :artist: The Killers
+  :song: When You Were Young
+  :year: '2006'
+- :artist: Arcade Fire
+  :song: Sprawl II (Mountains Beyond Mountains)
+  :year: '2010'
+- :artist: My Morning Jacket
+  :song: Wonderful
+  :year: '2011'
+- :artist: Robert Plant & The Band Of Joy
+  :song: Monkey
+  :year: '2010'
+- :artist: Beyonce
+  :song: Crazy In Love
+  :year: '2003'
+- :artist: Bruce Springsteen
+  :song: Radio Nowhere
+  :year: '2007'
+- :artist: Slo-Mo With Mic Recka
+  :song: Shackamaxon
+  :year: '2005'
+- :artist: U2
+  :song: Magnificent
+  :year: '2009'
+- :artist: The Lone Bellow
+  :song: You Never Need Nobody
+  :year: '2013'
+- :artist: Raul Malo
+  :song: I See You
+  :year: '2001'
+- :artist: Regina Skeptor
+  :song: Fidelity
+  :year: '2006'
+- :artist: Wilco
+  :song: Handshake Drugs
+  :year: '2004'
+- :artist: Guster
+  :song: Amsterdam
+  :year: '2003'
+- :artist: Radiohead
+  :song: Reckoner
+  :year: '2007'
+- :artist: Modest Mouse
+  :song: Dashboard
+  :year: '2007'
+- :artist: Radiohead
+  :song: 2+2=5
+  :year: '2003'
+- :artist: The Black Keys
+  :song: I Got Mine
+  :year: '2008'
+- :artist: Adele
+  :song: Skyfall
+  :year: '2012'
+- :artist: Bruce Springsteen
+  :song: Wrecking Ball
+  :year: '2012'
+- :artist: Jay-Z
+  :song: Empire State Of Mind
+  :year: '2009'
+- :artist: Michael Kiwanuka
+  :song: Tell Me A Tale
+  :year: '2012'
+- :artist: Ryan Bingham
+  :song: Southside Of Heaven
+  :year: '2007'
+- :artist: Beyonce
+  :song: Halo
+  :year: '2008'
+- :artist: Tedeschi Trucks Band
+  :song: Midnight In Harlem
+  :year: '2011'
+- :artist: Eddie Vedder
+  :song: Hard Sun
+  :year: '2007'
+- :artist: Joseph Arthur
+  :song: Honey And The Moon
+  :year: '2002'
+- :artist: Arctic Monkeys
+  :song: I Bet You Look Good On The Dance Floor
+  :year: '2006'
+- :artist: The Hold Steady
+  :song: Chips Ahoy
+  :year: '2006'
+- :artist: Ben Folds
+  :song: You Don'T Know Me
+  :year: '2008'
+- :artist: Fountains Of Wayne
+  :song: Stacy's Mom
+  :year: '2003'
+- :artist: Imagine Dragons
+  :song: Demons
+  :year: '2012'
+- :artist: John Mayer
+  :song: Slow Dancing In A Burning Room
+  :year: '2006'
+- :artist: My Morning Jacket
+  :song: Gideon
+  :year: '2005'
+- :artist: Damien Rice
+  :song: Volcano
+  :year: '2002'
+- :artist: Rilo Kiley
+  :song: Portions For Foxes
+  :year: '2004'
+- :artist: Strokes
+  :song: Hard To Explain
+  :year: '2001'
+- :artist: Vampire Weekend
+  :song: Unbelievers
+  :year: '2003'
+- :artist: Snow Patrol
+  :song: Chasing Cars
+  :year: '2006'
+- :artist: St. Vincent
+  :song: Now, Now
+  :year: '2007'
+- :artist: Alabama Shakes
+  :song: Hang Loose
+  :year: '2012'
+- :artist: Bruce Springsteen
+  :song: Waiting On A Sunny Day
+  :year: '2002'
+- :artist: Hayes Carll
+  :song: Kmag Yoyo
+  :year: '2011'
+- :artist: Citizen Cope
+  :song: Sons Gonna Rise
+  :year: '2004'
+- :artist: Mumford & Sons
+  :song: Awake My Soul
+  :year: '2009'
+- :artist: The Shins
+  :song: Simple Song
+  :year: '2012'
+- :artist: Sia
+  :song: Breathe Me
+  :year: '2004'
+- :artist: The Avett Brothers
+  :song: Kick Drum Heart
+  :year: '2009'
+- :artist: Foo Fighters
+  :song: Times Like  These
+  :year: '2002'
+- :artist: Grace Potter And The Nocturnals
+  :song: Nothing But The Water
+  :year: '2005'
+- :artist: Band Of Horses
+  :song: Laredo
+  :year: '2010'
+- :artist: John Mayer
+  :song: Who Says
+  :year: '2009'
+- :artist: Josh Ritter
+  :song: Thin Blue Flame
+  :year: '2006'
+- :artist: Amy Winehouse
+  :song: Tears Dry On Their Own
+  :year: '2006'
+- :artist: Dawes
+  :song: Most People
+  :year: '2013'
+- :artist: Death Cab For Cutie
+  :song: Summer Skin
+  :year: '2005'
+- :artist: Iron & Wine
+  :song: Grace For Saints & Ramblers
+  :year: '2013'
+- :artist: Vampire Weekend
+  :song: Holiday
+  :year: '2010'
+- :artist: Jack Johnson
+  :song: Good People
+  :year: '2005'
+- :artist: Melody Gardot
+  :song: Who Will Comfort Me
+  :year: '2009'
+- :artist: Queens Of The Stone Age
+  :song: No One Knows
+  :year: '2002'
+- :artist: Amos Lee
+  :song: Wind, The
+  :year: '2006'
+- :artist: Diego Garcia
+  :song: All Eyes On You
+  :year: '2011'
+- :artist: The Hold Steady
+  :song: Stay Positive
+  :year: '2008'
+- :artist: KT Tunstall
+  :song: Suddenly I See
+  :year: '2004'
+- :artist: Lord Huron
+  :song: Time To Run
+  :year: '2012'
+- :artist: Matisyahu
+  :song: One Day
+  :year: '2009'
+- :artist: Stray Birds
+  :song: Dream In Blue
+  :year: '2012'
+- :artist: Amos Lee
+  :song: Violin
+  :year: '2011'
+- :artist: Jack White
+  :song: I'm Shakin'
+  :year: '2012'
+- :artist: Laura Marling
+  :song: Sophia
+  :year: '2011'
+- :artist: Sigur Ros
+  :song: Hoppipolla
+  :year: '2005'
+- :artist: Beck
+  :song: E-Pro
+  :year: '2005'
+- :artist: Death Cab For Cutie
+  :song: Crooked Teeth
+  :year: '2005'
+- :artist: Radiohead
+  :song: All I Need
+  :year: '2007'
+- :artist: Delta Spirit
+  :song: California
+  :year: '2012'
+- :artist: Five For Fighting
+  :song: 100 Years
+  :year: '2004'
+- :artist: Andrew Bird
+  :song: Imitosis
+  :year: '2007'
+- :artist: Ben Folds
+  :song: Landed
+  :year: '2005'
+- :artist: Foo Fighters
+  :song: Best Of You
+  :year: '2005'
+- :artist: Lcd Soundsystem
+  :song: Losing My Edge
+  :year: '2005'
+- :artist: Coldplay
+  :song: Speed Of Sound
+  :year: '2005'
+- :artist: Imagine Dragons
+  :song: Radioactive
+  :year: '2012'
+- :artist: Daft Punk
+  :song: One More Time
+  :year: '2001'
+- :artist: Lcd Soundsystem
+  :song: Someone Great
+  :year: '2007'
+- :artist: Tedeschi Trucks Band
+  :song: Bound For Glory
+  :year: '2011'
+- :artist: Dave Matthews
+  :song: Grey Street
+  :year: '2002'
+- :artist: Foster The People
+  :song: Helena Beat
+  :year: '2011'
+- :artist: The Decemberists
+  :song: The Crane Wife 1 & 2
+  :year: '2006'
+- :artist: Red Hot Chili Peppers
+  :song: Dani California
+  :year: '2006'
+- :artist: Edward Sharpe And The Magnetic Zeroes
+  :song: Better Days
+  :year: '2013'
+- :artist: Old 97's
+  :song: Question
+  :year: '2001'
+- :artist: Vampire Weekend
+  :song: Giving Up The Gun
+  :year: '2010'
+- :artist: Chuck Prophet
+  :song: Summertime Thing
+  :year: '2008'
+- :artist: Damien Rice
+  :song: The Blower's Daughter
+  :year: '2002'
+- :artist: The Jayhawks
+  :song: Save It For A Rainy Day
+  :year: '2003'
+- :artist: Robin Thicke
+  :song: Blurred Lines
+  :year: '2013'
+- :artist: Wilco
+  :song: You And I
+  :year: '2009'
+- :artist: Ryan Bingham
+  :song: Hard Times
+  :year: '2007'
+- :artist: Vampire Weekend
+  :song: Horchata
+  :year: '2010'
+- :artist: David Gray
+  :song: Fugitive
+  :year: '2009'
+- :artist: Fun.
+  :song: Carry On
+  :year: '2012'
+- :artist: Jd McPherson
+  :song: North Side Gal
+  :year: '2012'
+- :artist: The Killers
+  :song: Somebody Told Me
+  :year: '2004'
+- :artist: Bob Dylan
+  :song: Thunder On The Mountain
+  :year: '2006'
+- :artist: Wilco
+  :song: Art Of Almost
+  :year: '2011'
+- :artist: Grace Potter And The Nocturnals
+  :song: Stars
+  :year: '2012'
+- :artist: Radiohead
+  :song: Pyramid Song
+  :year: '2001'
+- :artist: Neko Case
+  :song: This Tornado Loves You
+  :year: '2009'
+- :artist: The White Stripes
+  :song: Ball And Bisquit
+  :year: '2003'
+- :artist: Bob Dylan
+  :song: Duquesne Whistle
+  :year: '2012'
+- :artist: My Morning Jacket
+  :song: Mahgeetah
+  :year: '2003'
+- :artist: Django Django
+  :song: Default
+  :year: '2012'
+- :artist: Radiohead
+  :song: House Of Cards
+  :year: '2007'
+- :artist: The Avett Brothers
+  :song: Murder In The City
+  :year: '2008'
+- :artist: The Postal Service
+  :song: The District Sleeps Alone Tonight
+  :year: '2003'
+- :artist: The Black Keys
+  :song: Nova Baby
+  :year: '2011'
+- :artist: M83
+  :song: Midnight City
+  :year: '2011'
+- :artist: Outkast
+  :song: The Way You Move
+  :year: '2003'
+- :artist: My Morning Jacket
+  :song: Off The Record
+  :year: '2005'
+- :artist: The White Stripes
+  :song: Icky Thump
+  :year: '2007'
+- :artist: Wilco
+  :song: One Sunday Morning
+  :year: '2011'
+- :artist: Adele
+  :song: Make You Feel My Love
+  :year: '2008'
+- :artist: Beirut
+  :song: Santa Fe
+  :year: '2011'
+- :artist: Mumford & Sons
+  :song: Sigh No More
+  :year: '2009'
+- :artist: Bell X 1
+  :song: Velcro
+  :year: '2011'
+- :artist: Tame Impala
+  :song: Elephant
+  :year: '2012'
+- :artist: The Flaming Lips
+  :song: Yoshimi Battles The Pink Robots, Pt. 1
+  :year: '2002'
+- :artist: Jet
+  :song: Are You Gonna Be My Girl
+  :year: '2003'
+- :artist: Midlake
+  :song: Roscoe
+  :year: '2006'
+- :artist: Richard Thompson
+  :song: Persuasion
+  :year: '2001'
+- :artist: My Morning Jacket
+  :song: Circuital
+  :year: '2011'
+- :artist: David Byrne & Brian Eno
+  :song: Strange Overtones
+  :year: '2008'
+- :artist: Bell X-1
+  :song: Great Defector, The
+  :year: '2009'
+- :artist: Foster The People
+  :song: Houdini
+  :year: '2011'
+- :artist: Jason Mraz
+  :song: I Won't Give Up
+  :year: '2012'
+- :artist: John Mayer
+  :song: Stop This Train
+  :year: '2006'
+- :artist: Edward Sharpe And The Magnetic Zeros
+  :song: Janglin'
+  :year: '2009'
+- :artist: The Killers
+  :song: Read My Mind
+  :year: '2006'
+- :artist: Silversun Pickups
+  :song: Lazy Eye
+  :year: '2006'
+- :artist: Lucinda Williams
+  :song: Essence
+  :year: '2001'
+- :artist: War On Drugs, The
+  :song: Come To The City
+  :year: '2011'
+- :artist: Lcd Soundsystem
+  :song: North American Scum
+  :year: '2007'
+- :artist: Alison Kraus & Robert Plant
+  :song: Please Read The Letter
+  :year: '2007'
+- :artist: Josh Ritter
+  :song: Change Of Time
+  :year: '2010'
+- :artist: Carbon Leaf
+  :song: What About Everything
+  :year: '2004'
+- :artist: Arcade Fire
+  :song: Intervention
+  :year: '2007'
+- :artist: The Fray
+  :song: How To Save A Life
+  :year: '2005'
+- :artist: Guster
+  :song: Satellite
+  :year: '2006'
+- :artist: Maroon 5
+  :song: Daylight
+  :year: '2012'
+- :artist: Trombone Shorty
+  :song: Hurricane Season
+  :year: '2010'
+- :artist: U2
+  :song: Sometimes You Can't Make It On Your Own
+  :year: '2004'
+- :artist: Amos Lee
+  :song: Flower
+  :year: '2011'
+- :artist: Brandi Carlile
+  :song: Throw It All Away
+  :year: '2005'
+- :artist: Howie Day
+  :song: Collide
+  :year: '2003'
+- :artist: Neil Young & Crazy Horse
+  :song: Walk Like A Giant
+  :year: '2012'
+- :artist: Jack Johnson
+  :song: Flake
+  :year: '2001'
+- :artist: Sufjan Stevens
+  :song: Casimir Pulaski Day
+  :year: '2005'
+- :artist: Brandi Carlile
+  :song: Hard Way Home
+  :year: '2012'
+- :artist: Ray Lamontagne
+  :song: Repo Man
+  :year: '2010'
+- :artist: The Darkness
+  :song: I Believe In A Thing Called Love
+  :year: '2003'
+- :artist: The Decemberists
+  :song: O Valencia
+  :year: '2006'
+- :artist: Fitz And The Tantrums
+  :song: Don't Gotta Work It Out
+  :year: '2010'
+- :artist: John Mayer
+  :song: Something Like Olivia
+  :year: '2012'
+- :artist: Neil Young & Crazy Horse
+  :song: Ramada Inn
+  :year: '2012'
+- :artist: Phish
+  :song: Backwards Down The Number Line
+  :year: '2009'
+- :artist: Arcade Fire
+  :song: ! 'Neighborhood #3 (Power Out)'
+  :year: '2004'
+- :artist: John Legend
+  :song: Ordinary People
+  :year: '2004'
+- :artist: Citizen Cope
+  :song: Hurricane Waters
+  :year: '2004'
+- :artist: Bon Iver
+  :song: ! 'Re: Stacks'
+  :year: '2008'
+- :artist: Bruce Springsteen
+  :song: Mary's Place
+  :year: '2002'
+- :artist: Local Natives
+  :song: Sun Hands
+  :year: '2010'
+- :artist: Wilco
+  :song: Ashes Of American Flags
+  :year: '2002'
+- :artist: Electric Guest
+  :song: This Head I Hold
+  :year: '2012'
+- :artist: Lady Gaga
+  :song: Bad Romance
+  :year: '2009'
+- :artist: Polica
+  :song: Dark Star
+  :year: '2012'
+- :artist: My Morning Jacket
+  :song: Holding On To Black Metal
+  :year: '2011'
+- :artist: Phillip Phillips
+  :song: Gone Gone Gone
+  :year: '2012'
+- :artist: Ben Folds
+  :song: Still Fighting It
+  :year: '2001'
+- :artist: Delta Spirit
+  :song: Bushwick Blues
+  :year: '2010'
+- :artist: Gillian Welch
+  :song: The Way It Goes
+  :year: '2011'
+- :artist: Dave Matthews
+  :song: Save Me
+  :year: '2003'
+- :artist: The Shins
+  :song: Australia
+  :year: '2007'
+- :artist: John Butler Trio
+  :song: Zebra
+  :year: '2004'
+- :artist: Kings Of Leon
+  :song: California Waiting
+  :year: '2003'
+- :artist: The White Stripes
+  :song: Dead Leaves On The Dirty Ground
+  :year: '2001'
+- :artist: Mumford & Sons
+  :song: Winter Winds
+  :year: '2009'
+- :artist: Ray Lamontagne
+  :song: Empty
+  :year: '2006'
+- :artist: Roseanne Cash
+  :song: Sea Of Heartbreak
+  :year: '2009'
+- :artist: Adele
+  :song: Lovesong
+  :year: '2011'
+- :artist: Arcade Fire
+  :song: Modern Man
+  :year: '2010'
+- :artist: Norah Jones
+  :song: Shoot The Moon
+  :year: '2002'
+- :artist: Modest Mouse
+  :song: The Ocean Breathes Salty
+  :year: '2004'
+- :artist: Tune-Yards
+  :song: Fiya
+  :year: '2009'
+- :artist: Ryan Shaw
+  :song: Do The 45
+  :year: '2007'
+- :artist: Edward Sharpe And The Magnetic Zeros
+  :song: Fiya Wata
+  :year: '2012'
+- :artist: Feist
+  :song: Mushaboom
+  :year: '2004'
+- :artist: The Hooters
+  :song: I'm Alive
+  :year: '2007'
+- :artist: Coldplay
+  :song: In My Place
+  :year: '2002'
+- :artist: The Killers
+  :song: Human
+  :year: '2008'
+- :artist: Pink Martini
+  :song: Hang On Little Tomato
+  :year: '2004'
+- :artist: Red Hot Chili Peppers
+  :song: Can't Stop
+  :year: '2002'
+- :artist: U2
+  :song: Moment Of Surrender
+  :year: '2009'
+- :artist: Nick Cave And The Bad Seeds
+  :song: There She Goes My Beautiful World
+  :year: '2004'
+- :artist: The Avett Brothers
+  :song: Head Full Of Doubt/Road Full Of Promise
+  :year: '2009'
+- :artist: Lcd Soundsystem
+  :song: Daft Punk Is Playing At My House
+  :year: '2005'
+- :artist: The Lumineers
+  :song: Submarines
+  :year: '2012'
+- :artist: Alt-J
+  :song: Breezeblocks
+  :year: '2012'
+- :artist: Dave Matthews
+  :song: Funny The Way It Is
+  :year: '2009'
+- :artist: Paul Mccartney
+  :song: That Was Me
+  :year: '2007'
+- :artist: Peter, Bjorn & John
+  :song: Second Chance
+  :year: '2011'
+- :artist: Rufus Wainwright
+  :song: I Don't Know What It Is
+  :year: '2003'
+- :artist: Steve Earle
+  :song: City Of Immigrants
+  :year: '2007'
+- :artist: Tame Impala
+  :song: Feels Like We Only Go Backwards
+  :year: '2012'
+- :artist: Mumford & Sons
+  :song: White Blank Page
+  :year: '2009'
+- :artist: Train
+  :song: Calling All Angels
+  :year: '2003'
+- :artist: Wilco
+  :song: One Wing
+  :year: '2009'
+- :artist: Alejandro Escovedo
+  :song: Always A Friend
+  :year: '2008'
+- :artist: Arcade Fire
+  :song: The Suburbs
+  :year: '2010'
+- :artist: Drive By Truckers
+  :song: Righteous Path
+  :year: '2008'
+- :artist: Free Energy
+  :song: Bang Pop
+  :year: '2010'
+- :artist: Green Day
+  :song: Boulevard Of Broken Dreams
+  :year: '2004'
+- :artist: Ray Lamontagne
+  :song: Old Before Your Time
+  :year: '2010'
+- :artist: The Shins
+  :song: Caring Is Creepy
+  :year: '2001'
+- :artist: Stereophonics
+  :song: Maybe Tomorrow
+  :year: '2003'
+- :artist: Bruce Springsteen
+  :song: You're Missing
+  :year: '2002'
+- :artist: Arcade Fire
+  :song: Keep The Car Running
+  :year: '2007'
+- :artist: Muse
+  :song: Starlight
+  :year: '2006'
+- :artist: The Black Keys
+  :song: Everlasting Light
+  :year: '2010'
+- :artist: Guster
+  :song: Do You Love Me
+  :year: '2010'
+- :artist: Justin Timberlake
+  :song: Sexyback
+  :year: '2006'
+- :artist: Kanye West
+  :song: Gold Digger
+  :year: '2005'
+- :artist: Muse
+  :song: Uprising
+  :year: '2009'
+- :artist: Grace Potter And The Nocturnals
+  :song: Apologies
+  :year: '2007'
+- :artist: Passion Pit
+  :song: Sleepyhead
+  :year: '2010'
+- :artist: Rufus Wainwright
+  :song: Out Of The Game
+  :year: '2012'
+- :artist: The Avett Brothers
+  :song: Ballad Of Love And Hate, The
+  :year: '2007'
+- :artist: Amos Lee
+  :song: El Camino
+  :year: '2011'
+- :artist: Kings Of Leon
+  :song: Back Down South
+  :year: '2010'
+- :artist: Beach House
+  :song: Myth
+  :year: '2012'
+- :artist: Of Monsters And Men
+  :song: Mountain Sound
+  :year: '2011'
+- :artist: Daft Punk
+  :song: Fragments Of Time
+  :year: '2013'
+- :artist: The Shins
+  :song: It's Only Life
+  :year: '2012'
+- :artist: Black Eyed Peas
+  :song: I Gotta Feeling
+  :year: '2009'
+- :artist: Bon Jovi
+  :song: Who Says You Can't Go Home
+  :year: '2005'
+- :artist: The Decemberists
+  :song: Calamity Song
+  :year: '2011'
+- :artist: Adele
+  :song: Turning Tables
+  :year: '2011'
+- :artist: Jenny Lewis
+  :song: Acid Tongue
+  :year: '2008'
+- :artist: One Eskimo
+  :song: Amazing
+  :year: '2009'
+- :artist: Kathleen Edwards
+  :song: Cheapest Key, The
+  :year: '2010'
+- :artist: Death Cab For Cutie
+  :song: Transatlantacism
+  :year: '2003'
+- :artist: Ray Lamontagne
+  :song: How Come
+  :year: '2004'
+- :artist: The White Stripes
+  :song: Hotel Yorba
+  :year: '2001'
+- :artist: Ryan Adams And The Cardinals
+  :song: Magnolia Mountain
+  :year: '2005'
+- :artist: Young The Giant
+  :song: Cough Syrup
+  :year: '2011'
+- :artist: Citizen Cope
+  :song: One Lovely Day
+  :year: '2012'
+- :artist: David Bowie
+  :song: Next Day
+  :year: '2013'
+- :artist: Dr. Dog
+  :song: The Ark
+  :year: '2008'
+- :artist: Father John Misty
+  :song: Hollywood Forever Cemetery Sings
+  :year: '2012'
+- :artist: John Mayer
+  :song: Belief
+  :year: '2006'
+- :artist: Rodrigo Y Gabriela
+  :song: Buster Voodoo
+  :year: '2009'
+- :artist: St. Vincent
+  :song: Cruel
+  :year: '2011'
+- :artist: Tom Petty
+  :song: Down South
+  :year: '2006'
+- :artist: Dr. Dog
+  :song: The Truth
+  :year: '2013'
+- :artist: Fountains Of Wayne
+  :song: Hackensack
+  :year: '2003'
+- :artist: Lorde
+  :song: Royals
+  :year: '2013'
+- :artist: Passion Pit
+  :song: Take A Walk
+  :year: '2012'
+- :artist: Dave Matthews
+  :song: Where Are You Going
+  :year: '2002'
+- :artist: Rhett Miller
+  :song: Come Around
+  :year: '2002'
+- :artist: The Tallest Man On Earth
+  :song: Love Is All
+  :year: '2010'
+- :artist: Wallflowers
+  :song: Reboot The Mission
+  :year: '2012'
+- :artist: Bon Iver
+  :song: Perth
+  :year: '2011'
+- :artist: Adele
+  :song: Right As Rain
+  :year: '2008'
+- :artist: Amos Lee
+  :song: Keep It Loose, Keep It Tight
+  :year: '2005'
+- :artist: Calexico
+  :song: Quattro
+  :year: '2003'
+- :artist: Dixie Chicks
+  :song: Not Ready To Make Nice
+  :year: '2006'
+- :artist: Dr. Dog
+  :song: Jackie Wants A Black Eye
+  :year: '2010'
+- :artist: Erin Mckeown
+  :song: Rhode Island Is Famous For You
+  :year: '2007'
+- :artist: Bon Iver
+  :song: For Emma
+  :year: '2008'
+- :artist: Wilco
+  :song: Sky Blue Sky
+  :year: '2007'
+- :artist: The Flaming Lips
+  :song: Fight Test
+  :year: '2002'
+- :artist: Vampire Weekend
+  :song: Step
+  :year: '2013'
+- :artist: The Gaslight Anthem
+  :song: American Slang
+  :year: '2010'
+- :artist: Incubus
+  :song: Wish You Were Here
+  :year: '2009'
+- :artist: Jack Johnson
+  :song: Bubble Toes
+  :year: '2001'
+- :artist: Passion Pit
+  :song: Carried Away
+  :year: '2012'
+- :artist: Monsters Of Folk
+  :song: Dear God
+  :year: '2009'
+- :artist: The New Pornographers
+  :song: Crash Years
+  :year: '2010'
+- :artist: Laura Mvula
+  :song: Green Garden
+  :year: '2013'
+- :artist: Paul Simon
+  :song: The Afterlife
+  :year: '2011'
+- :artist: Wilco
+  :song: War On War
+  :year: '2002'
+- :artist: Alt-J
+  :song: Tesselate
+  :year: '2012'
+- :artist: Mumford & Sons
+  :song: After The Storm
+  :year: '2009'
+- :artist: Bruce Springsteen
+  :song: Land Of Hope And Dreams
+  :year: '2012'
+- :artist: David Gray
+  :song: The One I Love
+  :year: '2005'
+- :artist: Jack White And Loretta Lynn
+  :song: Portland, Oregon
+  :year: '2004'
+- :artist: Josh Ritter
+  :song: To The Dogs Or Whoever
+  :year: '2007'
+- :artist: Alabama Shakes
+  :song: I Ain't The Same
+  :year: '2012'
+- :artist: Damien Rice
+  :song: Cannonball
+  :year: '2002'
+- :artist: Daft Punk
+  :song: Digital Love
+  :year: '2001'
+- :artist: Mumford & Sons
+  :song: Hopeless Wanderer
+  :year: '2012'
+- :artist: Norah Jones
+  :song: Chasing Pirates
+  :year: '2009'
+- :artist: Ryan Adams
+  :song: Lucky Now
+  :year: '2011'
+- :artist: Iron & Wine
+  :song: Boy With A Coin
+  :year: '2007'
+- :artist: Sigur Ros
+  :song: Glosoli
+  :year: '2005'
+- :artist: Regina Spector
+  :song: Laughing With
+  :year: '2009'
+- :artist: Bloc Party
+  :song: Banquet
+  :year: '2005'
+- :artist: John Mayer
+  :song: In Repair
+  :year: '2006'
+- :artist: Bruce Springsteen
+  :song: Working On A Dream
+  :year: '2009'
+- :artist: Raphael Saadiq
+  :song: Stone Rollin'
+  :year: '2011'
+- :artist: Damien Rice
+  :song: 9 Crimes
+  :year: '2006'
+- :artist: Phoenix
+  :song: Lisztomania
+  :year: '2009'
+- :artist: John Mayer
+  :song: Bigger Than My Body
+  :year: '2003'
+- :artist: Dawes
+  :song: That Western Skyline
+  :year: '2009'
+- :artist: Bright Eyes
+  :song: Four Winds
+  :year: '2007'
+- :artist: The Shins
+  :song: Kissing The Lipless
+  :year: '2003'
+- :artist: Madeleine Peyroux
+  :song: Dance Me To The End Of Love
+  :year: '2004'
+- :artist: Maroon 5
+  :song: Moves Like Jagger
+  :year: '2010'
+- :artist: Bon Iver
+  :song: Beth/Rest
+  :year: '2011'
+- :artist: Raul Malo
+  :song: Every Little Thing About You
+  :year: '2001'
+- :artist: Robert Plant
+  :song: Angel Dance
+  :year: '2010'
+- :artist: Steve Earle
+  :song: The Revolution Starts Now
+  :year: '2004'
+- :artist: Amy Winehouse
+  :song: Love Is A Losing Game
+  :year: '2006'
+- :artist: Spoon
+  :song: The Way We Get By
+  :year: '2002'
+- :artist: Dave Matthews
+  :song: If Only
+  :year: '2012'
+- :artist: Old 97's
+  :song: Every Night (Is Friday Night Without You)
+  :year: '2010'
+- :artist: Grace Potter And The Nocturnals
+  :song: Paris (Oh La La)
+  :year: '2010'
+- :artist: John Mayer
+  :song: Vultures
+  :year: '2006'
+- :artist: Spoon
+  :song: You Got Yr Cherry Bomb
+  :year: '2007'
+- :artist: Joss Stone
+  :song: Super Duper Love
+  :year: '2003'
+- :artist: Kings Of Leon
+  :song: Molly's Chamber
+  :year: '2003'
+- :artist: Scissor Sisters
+  :song: Take Your Mama
+  :year: '2004'
+- :artist: Jason Isbell And The 400 Unit
+  :song: Alabama Pines
+  :year: '2011'
+- :artist: Silversun Pickups
+  :song: Panic Switch
+  :year: '2009'
+- :artist: The White Stripes
+  :song: My Doorbell
+  :year: '2005'
+- :artist: Father John Misty
+  :song: I'm Writing A Novel
+  :year: '2012'
+- :artist: Jack Johnson
+  :song: Upside Down
+  :year: '2006'
+- :artist: Lianne La Havas
+  :song: Is Your Love Big Enough?
+  :year: '2012'
+- :artist: Muse
+  :song: Madness
+  :year: '2012'
+- :artist: Radiohead
+  :song: Nude
+  :year: '2007'
+- :artist: Neko Case
+  :song: Deep Red Bells
+  :year: '2002'
+- :artist: Pearl Jam
+  :song: I Am Mine
+  :year: '2002'
+- :artist: Rilo Kiley
+  :song: Silver Lining
+  :year: '2007'
+- :artist: Tv On The Radio
+  :song: Will Do
+  :year: '2011'
+- :artist: Nicole Atkins
+  :song: Maybe Tonight
+  :year: '2007'
+- :artist: Vampire Weekend
+  :song: Diplomat's Son
+  :year: '2010'
+- :artist: Adele
+  :song: One And Only
+  :year: '2011'
+- :artist: Ben Lee
+  :song: Catch My Disease
+  :year: '2005'
+- :artist: The Civil Wars
+  :song: The One That Got Away
+  :year: '2013'
+- :artist: Green Day
+  :song: Wake Me Up When September Ends
+  :year: '2004'
+- :artist: Japandroids
+  :song: The House That Heaven Built
+  :year: '2012'
+- :artist: The Killers
+  :song: Runaways
+  :year: '2012'
+- :artist: Michael Kiwanuka
+  :song: I'm Getting Ready
+  :year: '2012'
+- :artist: Regina Spektor
+  :song: That Time
+  :year: '2006'
+- :artist: The Black Keys
+  :song: Sister
+  :year: '2011'
+- :artist: Gorillaz
+  :song: On Melancholy Hill
+  :year: '2010'
+- :artist: Citizen Cope
+  :song: Let The Drummer Kick
+  :year: '2002'
+- :artist: David Bowie
+  :song: Where Are We Now
+  :year: '2013'
+- :artist: Foo Fighters
+  :song: All My Life
+  :year: '2002'
+- :artist: Gorillaz
+  :song: Stylo
+  :year: '2010'
+- :artist: The Hold Steady
+  :song: Lord  I'm Discouraged
+  :year: '2008'
+- :artist: Jack White
+  :song: Blunderbuss
+  :year: '2012'
+- :artist: Belle And Sebastian
+  :song: Blues Are Still Blue, The
+  :year: '2006'
+- :artist: Lissie
+  :song: In Sleep
+  :year: '2010'
+- :artist: Lord Huron
+  :song: She Lit A Fire
+  :year: '2012'
+- :artist: The Lumineers
+  :song: Flowers In Your Hair
+  :year: '2012'
+- :artist: Miike Snow
+  :song: Animal
+  :year: '2009'
+- :artist: Jack Johnson
+  :song: You And Your Heart
+  :year: '2010'
+- :artist: The Naked And The Famous
+  :song: Young Blood
+  :year: '2010'
+- :artist: Nellie Mckay
+  :song: David
+  :year: '2004'
+- :artist: Rodrigo Y Gabriela
+  :song: Tamacun
+  :year: '2006'
+- :artist: Swell Season/Glen Hansard/Martina Irglova
+  :song: When Your Mind's Made Up
+  :year: '2006'
+- :artist: Titus Andronicus
+  :song: A More Perfect Union
+  :year: '2010'
+- :artist: Xx, The
+  :song: Vcr
+  :year: '2009'
+- :artist: Youngblood Hawke
+  :song: We Come Running
+  :year: '2012'
+- :artist: Augustana
+  :song: Boston
+  :year: '2005'
+- :artist: Gomez
+  :song: How We Operate
+  :year: '2006'
+- :artist: The Avett Brothers
+  :song: Paranoia In B-Flat Major
+  :year: '2007'
+- :artist: Phoenix
+  :song: Long Distance Call
+  :year: '2006'
+- :artist: Belle And Sebastian
+  :song: Funny Little Frog
+  :year: '2006'
+- :artist: The Decemberists
+  :song: The Perfect Crime
+  :year: '2006'
+- :artist: Bruce Springsteen
+  :song: Jack Of All Trades
+  :year: '2012'
+- :artist: Drive By Truckers
+  :song: Decoration Day
+  :year: '2003'
+- :artist: Gary Clark Jr.
+  :song: Don't Owe You A Thang
+  :year: '2010'
+- :artist: Ben Harper
+  :song: Better Way
+  :year: '2006'
+- :artist: Gomez
+  :song: See The World
+  :year: '2006'
+- :artist: The Avett Brothers
+  :song: The Once And Future  Carpenter
+  :year: '2012'
+- :artist: The Jayhawks
+  :song: Tailspin
+  :year: '2003'
+- :artist: Matt Pond
+  :song: Halloween
+  :year: '2005'
+- :artist: My Morning Jacket
+  :song: Steam Engine
+  :year: '2003'
+- :artist: Nada Surf
+  :song: Always Love
+  :year: '2005'
+- :artist: Brett Dennen
+  :song: Sydney (I'll Come Running)
+  :year: '2011'
+- :artist: Norah Jones
+  :song: Happy Pills
+  :year: '2005'
+- :artist: Patty Griffin
+  :song: Long Ride Home
+  :year: '2002'
+- :artist: Mark Knopfler And Emmylou Harris
+  :song: All The Roadrunning
+  :year: '2006'
+- :artist: Paul Simon
+  :song: So Beautiful Or So What
+  :year: '2011'
+- :artist: The Strokes
+  :song: Under Cover Of Darkness
+  :year: '2011'
+- :artist: Beck
+  :song: Girl
+  :year: '2005'
+- :artist: Moby
+  :song: Pale Horses
+  :year: '2009'
+- :artist: Big Head Todd And The Monsters
+  :song: All The Love You Need
+  :year: '2007'
+- :artist: The Black Crowes
+  :song: Soul Singin'
+  :year: '2001'
+- :artist: Citizen Cope
+  :song: Brother Lee
+  :year: '2006'
+- :artist: Counting Crows
+  :song: American Girl
+  :year: '2002'
+- :artist: Ian Hunter
+  :song: When I'm President
+  :year: '2012'
+- :artist: John Mayer
+  :song: Assassin
+  :year: '2009'
+- :artist: Belle And Sebastian
+  :song: Another Sunny Day
+  :year: '2006'
+- :artist: Lucinda Williams
+  :song: Righteously
+  :year: '2003'
+- :artist: The Black Keys
+  :song: 10 Am Automatic
+  :year: '2004'
+- :artist: Martin Sexton
+  :song: Happy
+  :year: '2007'
+- :artist: Miley Cyrus
+  :song: Party In The Usa
+  :year: '2009'
+- :artist: Jessica Lea Mayfield
+  :song: Our Hearts Are Wrong
+  :year: '2011'
+- :artist: Moby
+  :song: We Are All Made Of Stars
+  :year: '2002'
+- :artist: The National
+  :song: Start A War
+  :year: '2007'
+- :artist: Jakob Dylan
+  :song: Something Good This Way Comes
+  :year: '2008'
+- :artist: Pretenders
+  :song: Love's A Mystery
+  :year: '2008'
+- :artist: Ryan Adams
+  :song: Cold Roses
+  :year: '2005'
+- :artist: Mumford & Sons
+  :song: Whispers In The Dark
+  :year: '2012'
+- :artist: Sufjan Stevens
+  :song: Impossible Soul (25 Minutes!)
+  :year: '2010'
+- :artist: Train
+  :song: Hey Soul Sister
+  :year: '2009'
+- :artist: The White Stripes
+  :song: Blue Orchid
+  :year: '2005'
+- :artist: Zero 7
+  :song: Destiny
+  :year: '2001'
+- :artist: Black Joe Lewis & The Honeybears
+  :song: Sugarfoot
+  :year: '2009'
+- :artist: Buddy Guy
+  :song: I Go By Feel
+  :year: '2013'
+- :artist: Fleet Foxes
+  :song: Blue Ridge Mountains
+  :year: '2008'
+- :artist: Frank Turner
+  :song: Recovery
+  :year: '2013'
+- :artist: Good Old War
+  :song: Calling Me Names
+  :year: '2012'
+- :artist: Bruno Mars
+  :song: Marry You
+  :year: '2010'
+- :artist: Grimes
+  :song: Oblivion
+  :year: '2012'
+- :artist: Iron & Wine
+  :song: Tree By The River
+  :year: '2011'
+- :artist: Joseph Arthur
+  :song: Saint Of Impossible Causes
+  :year: '2013'
+- :artist: Alabama Shakes
+  :song: I Found You
+  :year: '2012'
+- :artist: Mayer Hawthorne
+  :song: Her Favorite Song
+  :year: '2013'
+- :artist: The National
+  :song: Terrible Love
+  :year: '2010'
+- :artist: The Lumineers
+  :song: Slow It Down
+  :year: '2012'
+- :artist: Neko Case
+  :song: Star Witness
+  :year: '2006'
+- :artist: Dave Matthews
+  :song: The Space Between
+  :year: '2001'
+- :artist: Passiont Pit
+  :song: Little Secrets
+  :year: '2010'
+- :artist: Fleet Foxes
+  :song: He Doesn't Know Why
+  :year: '2008'
+- :artist: Ryan Adams
+  :song: La Cienenga Just Smiled
+  :year: '2001'
+- :artist: Spoon
+  :song: I Turn My Camera On
+  :year: '2005'
+- :artist: Muse
+  :song: Knights Of Cydonia
+  :year: '2006'
+- :artist: Sufjan Stevens
+  :song: Come On! Feel The Illinoise
+  :year: '2005'
+- :artist: Warren Haynes
+  :song: Soulshine
+  :year: '2001'
+- :artist: Bob Dylan
+  :song: High Water (For Charlie Patton)
+  :year: '2001'
+- :artist: Matt Nathanson
+  :song: Come On Get Higher
+  :year: '2007'
+- :artist: Capital Cities
+  :song: Safe And Sound
+  :year: '2013'
+- :artist: John Mayer
+  :song: Edge Of Desire
+  :year: '2009'
+- :artist: Dave Matthews
+  :song: Grave Digger
+  :year: '2003'
+- :artist: Emile Sande
+  :song: Next To Me
+  :year: '2012'
+- :artist: Passion Pit
+  :song: The Reeling
+  :year: '2010'
+- :artist: Grizzly Bear
+  :song: Two Weeks
+  :year: '2009'
+- :artist: Guster
+  :song: Careful
+  :year: '2003'
+- :artist: Iron & Wine
+  :song: Upward Over The Mountain
+  :year: '2002'
+- :artist: Joe Strummer & The Mescaleros
+  :song: Coma Girl
+  :year: '2003'
+- :artist: John Mayer
+  :song: Wildfire
+  :year: '2013'
+- :artist: Kathleen Edwards
+  :song: I Make The Dough, You Get The Glory
+  :year: '2010'
+- :artist: Band Of Horses
+  :song: Is There A Ghost
+  :year: '2007'
+- :artist: Lucinda Williams
+  :song: Real Love
+  :year: '2008'
+- :artist: Mavis Staples
+  :song: You Are Not Alone
+  :year: '2010'
+- :artist: Drive By Truckers
+  :song: Never Gonna Change
+  :year: '2004'
+- :artist: John Mayer
+  :song: In Your Atmosphere
+  :year: '2008'
+- :artist: Muse
+  :song: Resistance
+  :year: '2009'
+- :artist: Kelly Clarkson
+  :song: Since U Been Gone
+  :year: '2004'
+- :artist: My Morning Jacket
+  :song: Honest Man
+  :year: '2001'
+- :artist: Bright Eyes
+  :song: Land Locked Blues
+  :year: '2005'
+- :artist: The National
+  :song: Mistaken For Strangers
+  :year: '2007'
+- :artist: The Rolling Stones
+  :song: Doom And Gloom
+  :year: '2012'
+- :artist: Santigold
+  :song: Lights Out
+  :year: '2008'
+- :artist: Kanye West
+  :song: Touch The Sky
+  :year: '2005'
+- :artist: Scissor Sisters
+  :song: Laura
+  :year: '2004'
+- :artist: Tegan And Sara
+  :song: Walking With A Ghost
+  :year: '2004'
+- :artist: Vampire Weekend
+  :song: Mansard Roof
+  :year: '2008'
+- :artist: Afrocelt Sound System/Peter Gabriel
+  :song: When You're Falling
+  :year: '2001'
+- :artist: Arcade Fire
+  :song: Black Mirror
+  :year: '2007'
+- :artist: Bonnie Raitt
+  :song: Right Down The Line
+  :year: '2012'
+- :artist: The Corrs
+  :song: When The Stars Go Blue
+  :year: '2002'
+- :artist: The Decemberists
+  :song: Engine Driver
+  :year: '2005'
+- :artist: Arcade Fire
+  :song: We Used To Wait
+  :year: '2010'
+- :artist: Matisyahu
+  :song: King Without A Crown
+  :year: '2005'
+- :artist: Dr. Dog
+  :song: Do The Trick
+  :year: '2012'
+- :artist: The New Pornographers
+  :song: Sing Me Spanish Techno
+  :year: '2005'
+- :artist: Roseanne Cash
+  :song: Black Cadillac
+  :year: '2006'
+- :artist: Brandi Carlile
+  :song: Follow
+  :year: '2005'
+- :artist: Tedeschi Trucks Band
+  :song: Until You Remember
+  :year: '2011'
+- :artist: Tori Amos
+  :song: A Sorta Fairytale
+  :year: '2002'
+- :artist: Umphrey'S Mcgee
+  :song: In The Kitchen
+  :year: '2004'
+- :artist: Belle And Sebastian
+  :song: Piazza, New York Catcher
+  :year: '2003'
+- :artist: Alexi Murdoch
+  :song: All My Days
+  :year: '2006'
+- :artist: Amos Lee
+  :song: Kid
+  :year: '2008'
+- :artist: Spoon
+  :song: Trouble Comes Running
+  :year: '2010'
+- :artist: Clap Your Hands Say Yeah
+  :song: Skin Of My Yellow Country Teeth, The
+  :year: '2005'
+- :artist: Cold War Kids
+  :song: We Used To Vacation
+  :year: '2006'
+- :artist: Fiona Apple
+  :song: Extraordinary Machine
+  :year: '2005'
+- :artist: Band Of Horses
+  :song: No One'S Gonna Love You
+  :year: '2007'
+- :artist: Melody Gardot
+  :song: Worrisome Heart
+  :year: '2008'
+- :artist: Jason Isbell
+  :song: Stockholm
+  :year: '2013'
+- :artist: Jonatha Brooke
+  :song: Theres More True Lovers Than One
+  :year: '2008'
+- :artist: Rufus Wainwright
+  :song: Cigarettes And Chocolate Milk
+  :year: '2001'
+- :artist: Justin Townes Earle
+  :song: Look The Other Way
+  :year: '2012'
+- :artist: Kurt Vile
+  :song: Jesus Fever
+  :year: '2011'
+- :artist: Levon Helm
+  :song: The Mountain
+  :year: '2007'
+- :artist: Metric
+  :song: Gimmie Sympathy
+  :year: '2009'
+- :artist: James Blake
+  :song: Retrograde
+  :year: '2013'
+- :artist: Muse
+  :song: Hysteria
+  :year: '2003'
+- :artist: My Morning Jacket
+  :song: Thank You Too
+  :year: '2008'
+- :artist: Bruce Springsteen
+  :song: Rocky Ground
+  :year: '2012'
+- :artist: Old 97's
+  :song: Designs On You
+  :year: '2001'
+- :artist: Death Cab For Cutie
+  :song: New Year, The
+  :year: '2003'
+- :artist: Radiohead
+  :song: Knives Out
+  :year: '2001'
+- :artist: Ingrid Michaelson
+  :song: Be Ok
+  :year: '2008'
+- :artist: Robert Randolph And The Family Band
+  :song: Ain't Nothing Wrong With That
+  :year: '2006'
+- :artist: Sheryl Crow
+  :song: Soak Up The Sun
+  :year: '2002'
+- :artist: KT Tunstall
+  :song: Another Place To Fall
+  :year: '2004'
+- :artist: Spoon
+  :song: Don't You Evah
+  :year: '2007'
+- :artist: Tom Petty
+  :song: First Flash Of Freedom
+  :year: '2010'
+- :artist: Andrew Bird
+  :song: Armchairs
+  :year: '2007'
+- :artist: The Decemberists
+  :song: Crane Wife 3
+  :year: '2003'
+- :artist: Arcade Fire
+  :song: My Body Is A Cage
+  :year: '2007'
+- :artist: Carly Rae Jepsen
+  :song: Call Me Maybe
+  :year: '2012'
+- :artist: The Civil Wars
+  :song: The Violet Hour
+  :year: '2011'
+- :artist: Coldplay
+  :song: Warning Sign
+  :year: '2002'
+- :artist: Alt-J
+  :song: Fitzpleasure
+  :year: '2012'
+- :artist: Donavon Frankenreiter
+  :song: Glow
+  :year: '2010'
+- :artist: Foxygen
+  :song: San Francisco
+  :year: '2013'
+- :artist: Francis Dunnery
+  :song: Wounding And Healing Of Man
+  :year: '2001'
+- :artist: Dayna Kurtz
+  :song: Love Gets In The Way
+  :year: '2003'
+- :artist: Franz Ferdinand
+  :song: Do You Want To
+  :year: '2005'
+- :artist: Raphael Saadiq
+  :song: Heart Attack
+  :year: '2011'
+- :artist: Hoots And Hellmouth
+  :song: Want On Nothing
+  :year: '2011'
+- :artist: Carbon Leaf
+  :song: Life Less Ordinary
+  :year: '2004'
+- :artist: Jason Isbell And The 400 Unit
+  :song: Codeine
+  :year: '2011'
+- :artist: Frank Turner
+  :song: I Still Believe
+  :year: '2011'
+- :artist: The Decemberists
+  :song: Rise To Me
+  :year: '2011'
+- :artist: Jd McPherson
+  :song: Firebug
+  :year: '2012'
+- :artist: John Mayer
+  :song: Love Is A Verb
+  :year: '2012'
+- :artist: Josh Ritter
+  :song: Right Moves
+  :year: '2007'
+- :artist: The Fratellis
+  :song: Chelsea Dagger
+  :year: '2006'
+- :artist: Josh Rouse
+  :song: It's The Nightime
+  :year: '2005'
+- :artist: Moby
+  :song: Wait For Me
+  :year: '2009'
+- :artist: Feist
+  :song: '1234'
+  :year: '2007'
+- :artist: Monsters Of Folk
+  :song: The Right Place
+  :year: '2009'
+- :artist: Of Monsters And Men
+  :song: Love Love Love
+  :year: '2011'
+- :artist: John Mayer
+  :song: Dreaming With A Broken Heart
+  :year: '2006'
+- :artist: Ok Go
+  :song: This Too Shall Pass
+  :year: '2010'
+- :artist: Mia
+  :song: Paper Planes
+  :year: '2007'
+- :artist: Rascal Flatts
+  :song: Life Is A Highway
+  :year: '2006'
+- :artist: Patty Griffin
+  :song: Making Pies
+  :year: '2002'
+- :artist: Owl City
+  :song: Fireflies
+  :year: '2009'
+- :artist: Regina Spektor
+  :song: Us
+  :year: '2004'
+- :artist: Richard Julian
+  :song: Photograph
+  :year: '2006'
+- :artist: Sade
+  :song: Soldier Of Love
+  :year: '2010'
+- :artist: Wilco
+  :song: I Might
+  :year: '2011'
+- :artist: The Last Bison
+  :song: Switzerland
+  :year: '2013'
+- :artist: Slo Mo
+  :song: My Buzz Comes Back
+  :year: '2005'
+- :artist: Steve Earle
+  :song: Jerusalem
+  :year: '2002'
+- :artist: Wilco
+  :song: Spiders (Kidsmoke)
+  :year: '2004'
+- :artist: Tom Petty
+  :song: Saving Grace
+  :year: '2006'
+- :artist: Tv On The Radio
+  :song: Golden Age
+  :year: '2008'
+- :artist: Wilco
+  :song: What Light
+  :year: '2007'
+- :artist: Animal Collective
+  :song: Summertime Clothes
+  :year: '2009'
+- :artist: Wilco
+  :song: Either Way
+  :year: '2007'
+- :artist: Beck
+  :song: Cellphone's Dead
+  :year: '2006'
+- :artist: Josh Ritter
+  :song: Joy To You Baby
+  :year: '2013'
+- :artist: The Districts
+  :song: Four & Four
+  :year: '2013'
+- :artist: Lady Gaga
+  :song: Poker Face
+  :year: '2008'
+- :artist: Grace Potter And The Nocturnals
+  :song: Stop The Bus
+  :year: '2007'
+- :artist: Jason Mraz
+  :song: Remedy (I Won'T Worry), The
+  :year: '2002'
+- :artist: Kings Of Leon
+  :song: On Call
+  :year: '2007'
+- :artist: Delta Spirit
+  :song: People C'Mon
+  :year: '2008'
+- :artist: Mindy Smith
+  :song: Come To Jesus
+  :year: '2004'
+- :artist: R.E.M.
+  :song: Supernatural Superserious
+  :year: '2008'
+- :artist: Pete Yorn
+  :song: Strange Condition
+  :year: '2001'
+- :artist: Rachael Yamagata
+  :song: Sidedish Friend
+  :year: '2008'
+- :artist: Feist
+  :song: How Come You Never Go There
+  :year: '2011'
+- :artist: Rodrigo Y Gabriela
+  :song: Diablo Rojo
+  :year: '2006'
+- :artist: Seawolf
+  :song: You're A Wolf
+  :year: '2007'
+- :artist: Wilco
+  :song: Theologians
+  :year: '2004'
+- :artist: The Strokes
+  :song: Is This It
+  :year: '2001'
+- :artist: Ingrid Michaelson
+  :song: The Way I Am
+  :year: '2006'
+- :artist: Macklemore & Ryan Lewis
+  :song: Same Love
+  :year: '2012'
+- :artist: Justin Timberlake
+  :song: Rock Your Body
+  :year: '2002'
+- :artist: Rhett Miller
+  :song: This Is What I Do
+  :year: '2002'
+- :artist: Walkmen, The
+  :song: The Rat
+  :year: '2004'
+- :artist: Pearl Jam
+  :song: The Fixer
+  :year: '2009'
+- :artist: Phoenix
+  :song: '1901'
+  :year: '2009'
+- :artist: Trey Anastasio
+  :song: Cayman Review
+  :year: '2002'
+- :artist: Ben Harper
+  :song: With My Own Two Hands
+  :year: '2003'
+- :artist: Conor Oberst
+  :song: Sausalito
+  :year: '2008'
+- :artist: James Blunt
+  :song: You're Beautiful
+  :year: '2004'
+- :artist: Alison Kraus & Robert Plant
+  :song: Fortune Teller
+  :year: '2007'
+- :artist: Ingrid Michaelson
+  :song: Ghost
+  :year: '2012'
+- :artist: Beastie Boys
+  :song: Make Some Noise
+  :year: '2011'
+- :artist: My Chemical Romance
+  :song: Welcome To The Black Parade
+  :year: '2006'
+- :artist: Dr. John
+  :song: Revolution
+  :year: '2012'
+- :artist: The Raconteurs
+  :song: Steady As She Goes
+  :year: '2006'
+- :artist: Gorillaz
+  :song: Rhinestone Eyes
+  :year: '2010'
+- :artist: Ed Sheeran
+  :song: The A Team
+  :year: '2011'
+- :artist: Alison Kraus & Robert Plant
+  :song: Gone Gone Gone
+  :year: '2007'
+- :artist: The Head And The Heart
+  :song: Lost In My Mind
+  :year: '2011'
+- :artist: Grizzly Bear
+  :song: While You Wait For The Others
+  :year: '2009'
+- :artist: Low Anthem
+  :song: Charlie Darwin
+  :year: '2008'
+- :artist: Alicia Keys
+  :song: Falling
+  :year: '2001'
+- :artist: Robyn
+  :song: Dancing On My Own
+  :year: '2010'
+- :artist: The Rapture
+  :song: House Of Jealous Lovers
+  :year: '2003'
+- :artist: Kaiser Chiefs
+  :song: I Predict A Riot
+  :year: '2005'
+- :artist: Jc Brooks & The Uptown Sound
+  :song: Want More
+  :year: '2011'
+- :artist: Justin Timberlake
+  :song: Suit & Tie
+  :year: '2013'
+- :artist: Peter Gabriel
+  :song: Flume
+  :year: '2010'
+- :artist: Raphael Saadiq
+  :song: 100 Mile Dash
+  :year: '2008'
+- :artist: Bobby Long
+  :song: Who Have You Been Loving?
+  :year: '2011'
+- :artist: John Legend & The Roots
+  :song: Hard Times
+  :year: '2010'
+- :artist: Lykke Li
+  :song: Little Bit
+  :year: '2008'
+- :artist: The Tallest Man On Earth
+  :song: King Of Spain
+  :year: '2010'
+- :artist: Jose Gonzalez
+  :song: Crosses
+  :year: '2003'
+- :artist: Mark Knopfler And Emmylou Harris
+  :song: This Is Us
+  :year: '2006'
+- :artist: The Holmes Brothers
+  :song: We Meet We Part We Remember
+  :year: '2004'
+- :artist: Linkin Park
+  :song: Numb
+  :year: '2003'
+- :artist: She & Him
+  :song: Sentimental Heart
+  :year: '2008'
+- :artist: Bob Dylan
+  :song: Someday Baby
+  :year: '2006'
+- :artist: Gillian Welch
+  :song: Elvis Presley Blues
+  :year: '2001'
+- :artist: Thievery Corporation
+  :song: The Heart's A Lonely Hunter
+  :year: '2005'
+- :artist: Joseph Arthur
+  :song: Even Tho
+  :year: '2004'
+- :artist: Spoon
+  :song: The Mystery Zone
+  :year: '2010'
+- :artist: Warren Haynes
+  :song: Man In Motion
+  :year: '2011'
+- :artist: Dixie Chicks
+  :song: Landslide
+  :year: '2002'
+- :artist: Xx, The
+  :song: Heart Skipped A Beat
+  :year: '2009'
+- :artist: Lana Del Rey
+  :song: Blue Jeans
+  :year: '2012'
+- :artist: Danielia Cotton
+  :song: It's Only Life
+  :year: '2005'
+- :artist: Sharon Jones & The Dapkings
+  :song: 100 Days
+  :year: '2007'
+- :artist: Richard Thompson
+  :song: I'Ll Tag Along
+  :year: '2003'
+- :artist: Roseanne Cash
+  :song: 500 Miles
+  :year: '2009'
+- :artist: Hot Chip
+  :song: Over And Over
+  :year: '2006'
+- :artist: James Blake
+  :song: The Wilhelm Scream
+  :year: '2011'
+- :artist: Macklemore & Ryan Lewis
+  :song: Thrift Shop
+  :year: '2012'
+- :artist: Nickelcreek
+  :song: Spit On A Stranger
+  :year: '2002'
+- :artist: Gary Jules
+  :song: Mad World
+  :year: '2001'
+- :artist: Mike Doughty
+  :song: 27 Jennifers
+  :year: '2008'
+- :artist: Dandy Warhols
+  :song: We Used To Be Friends
+  :year: '2003'
+- :artist: The Roots
+  :song: The Fire
+  :year: '2010'
+- :artist: Soulive
+  :song: Joyful Girl
+  :year: '2002'
+- :artist: Taylor Swift
+  :song: We Are Never Ever Getting Back Together
+  :year: '2012'
+- :artist: Beth Orton
+  :song: Concrete Sky
+  :year: '2002'
+- :artist: The National
+  :song: Lit Up
+  :year: '2005'
+- :artist: Rufus Wainwright
+  :song: Hallelujah
+  :year: '2001'
+- :artist: Ani Difranco
+  :song: Studying Stones
+  :year: '2005'
+- :artist: Kanye West
+  :song: Heartless
+  :year: '2008'
+- :artist: Mavis Staples
+  :song: Can You Get To That
+  :year: '2013'
+- :artist: Jonatha  Brooke
+  :song: Steady Pull
+  :year: '2001'
+- :artist: Old 97's
+  :song: Dance With Me
+  :year: '2008'
+- :artist: Norah Jones
+  :song: Back To Manhattan
+  :year: '2009'
+- :artist: Jamie Cullum
+  :song: High And Dry
+  :year: '2004'
+- :artist: Matt & Kim
+  :song: Daylight
+  :year: '2009'
+- :artist: Kaiser Chiefs
+  :song: Ruby
+  :year: '2007'
+- :artist: Pat Metheny
+  :song: As It Is
+  :year: '2002'
+- :artist: Joe Bonnamassa
+  :song: Dust Bowl
+  :year: '2011'
+- :artist: Bloc Party
+  :song: Helicopter
+  :year: '2005'
+- :artist: M. Ward
+  :song: Let's Dance
+  :year: '2003'
+- :artist: Weezer
+  :song: Hash Pipe
+  :year: '2001'
+- :artist: David Byrne
+  :song: Lazy
+  :year: '2002'
+- :artist: Chuck Prophet
+  :song: You Did
+  :year: '2004'
+- :artist: Cat Power
+  :song: New York
+  :year: '2008'
+- :artist: Elvis Costello
+  :song: Tears, Tears, And More Tears
+  :year: '2006'
+- :artist: U2
+  :song: City Of Blinding Lights
+  :year: '2004'
+- :artist: Counting Crows
+  :song: You Can't Count On Me
+  :year: '2008'
+- :artist: Sting
+  :song: Never Coming Home
+  :year: '2003'
+- :artist: Polyphonic Spree
+  :song: Light And Day
+  :year: '2003'
+- :artist: Morrissey
+  :song: Irish Blood, English Heart
+  :year: '2004'
+- :artist: Yo La Tengo
+  :song: Today Is The Day
+  :year: '2003'
+- :artist: Sharon Van Etten
+  :song: Serpents
+  :year: '2012'
+- :artist: Primal Scream
+  :song: Country Girl
+  :year: '2006'
+- :artist: The Heavy
+  :song: How You Like Me Now
+  :year: '2009'
+- :artist: Ringside
+  :song: Tired Of Being Sorry
+  :year: '2005'
+- :artist: Lmfao
+  :song: Party Rock Anthem
+  :year: '2011'
